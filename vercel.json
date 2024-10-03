@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://t6a4m-8090.csb.app/$1"
+      "dest": "https://generativelanguage.googleapis.com/$1"
     }
   ]
 }
